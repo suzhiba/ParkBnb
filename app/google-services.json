@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "900246145872",
+    "firebase_url": "https://test-ff04c.firebaseio.com",
+    "project_id": "test-ff04c",
+    "storage_bucket": "test-ff04c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900246145872:android:bfad5308e08d6448",
+        "android_client_info": {
+          "package_name": "com.firebase.samples.logindemo.logindemoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900246145872-cbf711293565puqjneu6vnqb2cfm0c01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.samples.logindemo.logindemoe",
+            "certificate_hash": "102e254e6e322f980659551f862dca6bf3e9a4bc"
+          }
+        },
+        {
+          "client_id": "900246145872-u9libuc2jinhqn7d5qcp0kd5tgvgjkho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZM6Af_S-l-QlWRvbsCgauVCo799WC_98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900246145872-u9libuc2jinhqn7d5qcp0kd5tgvgjkho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900246145872:android:7e571bc1dfe51055",
+        "android_client_info": {
+          "package_name": "com.example.suwadith.dentacare_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900246145872-s48376aticf4h0b9klrs34gf5ncl9154.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.suwadith.dentacare_firebase",
+            "certificate_hash": "102e254e6e322f980659551f862dca6bf3e9a4bc"
+          }
+        },
+        {
+          "client_id": "900246145872-u9libuc2jinhqn7d5qcp0kd5tgvgjkho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZM6Af_S-l-QlWRvbsCgauVCo799WC_98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900246145872-u9libuc2jinhqn7d5qcp0kd5tgvgjkho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/da7cde13bf99bd582d90d3e0c0e50cd382f676b0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4754910304a94c855c1caffdcd04ea1e36a2603/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/9e3ae5abd70d94d9c26374f0689c4951824dc2d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ef640eabaced4db441d5410d66e3ea71a783950/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_72800a0483cf977e28b11730572b45b65f646a08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha9/constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha9_5c85665e30ee89d587f23a668b9db463b71646fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/a9aec6f9046e4959c8c75a3687a39114df714f62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb867b7ece67eb4b9417cbbaa6b494427242a6bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/1c07ced954fa9809f9422fea7eadd9103516c4ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_393eb269ba4bbfed8f484e69755676f0ce08ab19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/18a06eda5f048dd7522c87b80651d9821438aaf3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ddf80e6165e9b1ca398d12651cf9c94a55272f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/ee46fd57ccbb4d8bcd098a4e664daada032925f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_790429c43e8657739b4cb5d005c34c52e05a599c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/eefc1d7db14196d70a4324f5f09c34f25bffacaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc499ea099f1f61f9df03c84a6d648e8569f70e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/a7d6621b283e24ab153d04f98cd0757da5791c2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ee324ca2ebd960c72d369c0c5b1127440110415/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69daad891bd81072b441913326ce44af14d0241d">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34c8f8a1308e59cbb5aeab6df8832ba62998b620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/bf4244a37c272e1efa2f074deaf12bde263d5224/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_899fe2c926a90d04e1b66de37526b055ba8eeb97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/c4ac15d085f0a87bb26f733b0c2dfb7417004cdf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ea3e5ae873faf8eb25d011884ccd71323e85998/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/3e203b96982aeacdca72ca8e939f79527b678f36/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95e8fb7804ba3efbab57ae424d8bd7a7819e15fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/361959d7a73fe7e89f496545c5561e0df34be6e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a1e4e3a120f24fe4f024e5c3cbf4297101b4db0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/26aa974f0efb4959b4e68f542f342eb350468ee6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e575e1b9c17f9dd2111ea440e3d9e5098057408/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/11d85818e5ac631bf51be75a0b387f1e9cffe1f8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e9b28dcf4638a6a503cb800744275bada145c85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_edd83b3b3d29e6db352dba9c6e448437dc184adb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/5b86e63c6c1ddbff5f1ce817345af57c2f327846/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44e77bd9c40b416de9ddcbbbc80db7462cb53954/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/7480b576a34bf9c35c67034d4f6acf1843abc735/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4f50eb160cde8e6d5d628473591e99e0693b2b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/46a53e1ec1ba7d6dee1d2e11426f2cacbce08c6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abcf37e92c3497f4902091cf35b469081a08973a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/su/.android/build-cache/d0e3681ffc3d81a0ae854b1a44d39d27a1aac210/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/home/su/Desktop/DentaCare-Android-FireBase-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f1e3f891652322f4b2a5c9fa708d23f9c98919a/classes.dex" />
+    </item>
+
+</items>
